@@ -3,9 +3,6 @@
     "version": "1.0",
     "manifest_version": 3,
     "description": "Capture and edit screenshots of web pages.",
-    "icons": {
-      "16": "logo.png"
-    },
     "permissions": ["activeTab", "tabs"],
     "background": {
       "service_worker": "background.js"
